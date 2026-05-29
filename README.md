@@ -1,4 +1,4 @@
-# 📦 Olist E-Commerce — Dashboard de Performance Comercial
+# 📦 Olist E-Commerce | Dashboard de Performance Comercial
 
 Projeto de portfólio com fluxo completo de dados: ingestão → limpeza → banco relacional → consultas analíticas → visualização em Power BI.
 
