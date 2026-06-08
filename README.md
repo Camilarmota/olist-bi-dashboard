@@ -1,6 +1,6 @@
 # 📦 Olist E-Commerce — Análise de Performance Comercial
 
-Projeto de portfólio com fluxo completo de dados: carregamento → limpeza com Python → banco SQLite → consultas SQL → exportação para Power BI.
+Projeto de Análise de dados com fluxo completo: carregamento → limpeza com Python → banco SQLite → consultas SQL → exportação para Power BI.
 
 ---
 
