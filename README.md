@@ -37,7 +37,7 @@ olist-bi-dashboard/
 │   ├── raw/                        ← arquivos originais do Kaggle (não versionados)
 │   └── processed/                  ← tabelas limpas exportadas para o Power BI
 ├── notebooks/
-│   └── olist_analise_junior.ipynb  ← análise completa: ETL + SQL
+│   └── olist_analise.ipynb  ← análise completa: ETL + SQL
 ├── dashboard/
 │   └── olist_dashboard.pbix        ← arquivo Power BI
 ├── .gitignore
