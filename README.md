@@ -62,14 +62,7 @@ pip install pandas ipykernel
 **3. Baixe o dataset**
 
 Acesse o Kaggle e baixe o [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
-Extraia os arquivos abaixo na pasta `data/raw/`:
-
-```
-olist_orders_dataset.csv
-olist_order_items_dataset.csv
-olist_order_reviews_dataset.csv
-olist_customers_dataset.csv
-```
+Extraia os arquivos abaixo na pasta `data/raw/`
 
 **4. Execute o notebook**
 ```bash
