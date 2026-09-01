@@ -81,7 +81,7 @@ Se necessário, atualize o caminho dos arquivos em *Transformar Dados → Config
 | Seção | Descrição |
 |-------|-----------|
 | 1. Imports | Carrega as bibliotecas necessárias |
-| 2. Carregamento | Lê os 4 CSVs do Kaggle |
+| 2. Carregamento | Lê os CSVs do Kaggle |
 | 3. Primeiro olhar | Explora colunas, tipos e valores nulos |
 | 4. Limpeza | Converte datas, calcula tempo de entrega e flag de atraso |
 | 5. KPIs | Calcula receita, ticket médio, nota média e taxa de atraso |
