@@ -67,7 +67,7 @@ Acesse o Kaggle e baixe o [Brazilian E-Commerce Public Dataset by Olist](https:/
 ```bash
 jupyter notebook notebooks/olist_analise_junior.ipynb
 ```
-Clique em **Run All**. Os arquivos processados serão gerados automaticamente em `data/processed/`.
+Clique em **Run All**.
 
 **5. Abra o dashboard**
 
